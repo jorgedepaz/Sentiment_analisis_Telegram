@@ -1,0 +1,2 @@
+User: Hola buenas tardes Score: {'label': 'POS', 'score': 0.6356812119483948}|
+User: Usted es un pendejo Score: {'label': 'NEG', 'score': 0.9172884225845337}|
