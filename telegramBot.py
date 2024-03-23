@@ -2,7 +2,7 @@ import openai
 import requests
 import time
 
-openai.api_key = "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"
+openai.api_key = ""#insert Open AI token
 TOKEN = "T6605265409:AAGTEBUcdbMXJXwXZ5gHXIaz1oXhlQxTf7I"
 
 def get_updates(offset):
